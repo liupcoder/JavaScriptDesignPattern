@@ -44,3 +44,5 @@ let a = new A('a', 26, aHouse)
 a.saySomething()
 let b = new B('b', 40)
 b.saySomething()
+
+
